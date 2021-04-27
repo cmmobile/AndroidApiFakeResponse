@@ -1,0 +1,2 @@
+# AndroidApiFakeResponse
+用於存放測試用回傳的repository
