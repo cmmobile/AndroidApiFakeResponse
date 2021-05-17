@@ -1,0 +1,57 @@
+{
+    "_id": "6087c6b4c65039f02fa33331",
+    "index": 3,
+    "guid": "31ddc4dc-2b13-49ec-b18a-894cef1ca6c9",
+    "isActive": true,
+    "balance": "$2,352.63",
+    "picture": "http://placehold.it/32x32",
+    "age": 36,
+    "eyeColor": "green",
+    "name": {
+      "first": "Todd",
+      "last": "Collins"
+    },
+    "company": "MINGA",
+    "email": "todd.collins@minga.me",
+    "phone": "+1 (964) 509-2220",
+    "address": "104 Wakeman Place, Somerset, Wisconsin, 7477",
+    "about": "Quis qui reprehenderit et tempor pariatur in pariatur. Eu ex consectetur officia aute non esse tempor nisi est ad dolor reprehenderit. Aliqua voluptate eiusmod laborum aute magna amet laboris deserunt ea mollit dolor ad do nostrud. Veniam ex laborum laboris officia sit. Dolor nisi eiusmod sunt irure quis. Aliqua est eiusmod sit qui. Deserunt elit id tempor officia minim excepteur et sit qui aliquip occaecat.",
+    "registered": "Friday, October 16, 2015 2:50 AM",
+    "latitude": "-57.2783",
+    "longitude": "-29.17177",
+    "tags": [
+      "ullamco",
+      "et",
+      "do",
+      "id",
+      "commodo"
+    ],
+    "range": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Maggie Sherman"
+      },
+      {
+        "id": 1,
+        "name": "Cook Castaneda"
+      },
+      {
+        "id": 2,
+        "name": "Carolina Rosa"
+      }
+    ],
+    "greeting": "Hello, Todd! You have 8 unread messages.",
+    "favoriteFruit": "apple"
+}

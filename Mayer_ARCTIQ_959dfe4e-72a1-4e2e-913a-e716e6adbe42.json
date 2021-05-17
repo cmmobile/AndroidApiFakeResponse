@@ -1,0 +1,57 @@
+{
+    "_id": "6087c6b4678165d14b15113d",
+    "index": 2,
+    "guid": "959dfe4e-72a1-4e2e-913a-e716e6adbe42",
+    "isActive": true,
+    "balance": "$1,403.49",
+    "picture": "http://placehold.it/32x32",
+    "age": 24,
+    "eyeColor": "green",
+    "name": {
+      "first": "Mayer",
+      "last": "Chapman"
+    },
+    "company": "ARCTIQ",
+    "email": "mayer.chapman@arctiq.biz",
+    "phone": "+1 (801) 584-2940",
+    "address": "613 Kane Place, Bascom, Arkansas, 5619",
+    "about": "Aliquip amet nisi cillum eiusmod reprehenderit dolore. Nulla eu exercitation eu eu amet cupidatat. Sint nisi nisi enim excepteur sit eu officia culpa veniam. Commodo deserunt dolore excepteur pariatur pariatur do esse culpa do. Ea excepteur dolore minim reprehenderit nostrud minim proident et deserunt dolore ullamco sunt laborum.",
+    "registered": "Saturday, June 3, 2017 6:20 AM",
+    "latitude": "29.455508",
+    "longitude": "143.403112",
+    "tags": [
+      "amet",
+      "nulla",
+      "mollit",
+      "aute",
+      "id"
+    ],
+    "range": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Hinton Hale"
+      },
+      {
+        "id": 1,
+        "name": "Julie Justice"
+      },
+      {
+        "id": 2,
+        "name": "Beatriz Stewart"
+      }
+    ],
+    "greeting": "Hello, Mayer! You have 9 unread messages.",
+    "favoriteFruit": "apple"
+}

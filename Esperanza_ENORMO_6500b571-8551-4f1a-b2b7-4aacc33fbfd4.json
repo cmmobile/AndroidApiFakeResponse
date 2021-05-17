@@ -1,0 +1,57 @@
+{
+    "_id": "6087c6b4a2e0de13d2a5cf8f",
+    "index": 4,
+    "guid": "6500b571-8551-4f1a-b2b7-4aacc33fbfd4",
+    "isActive": false,
+    "balance": "$3,208.37",
+    "picture": "http://placehold.it/32x32",
+    "age": 37,
+    "eyeColor": "brown",
+    "name": {
+      "first": "Esperanza",
+      "last": "Holman"
+    },
+    "company": "ENORMO",
+    "email": "esperanza.holman@enormo.tv",
+    "phone": "+1 (891) 445-3979",
+    "address": "775 Ocean Avenue, Keller, Kansas, 8844",
+    "about": "Cupidatat magna dolore ut deserunt nulla laboris dolore culpa id. Ullamco laboris laboris ea sunt dolore. Sunt Lorem enim amet ex consectetur pariatur amet. Est irure consectetur anim ut deserunt deserunt nostrud labore exercitation id in enim eiusmod commodo. Sint aliquip id nulla veniam duis aute mollit dolore nostrud ex irure nostrud. Est dolore officia pariatur minim minim do nostrud sint.",
+    "registered": "Friday, September 19, 2014 2:22 PM",
+    "latitude": "-39.320992",
+    "longitude": "7.317547",
+    "tags": [
+      "ut",
+      "laborum",
+      "aliqua",
+      "sint",
+      "consequat"
+    ],
+    "range": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Concepcion Ayala"
+      },
+      {
+        "id": 1,
+        "name": "Crawford Franks"
+      },
+      {
+        "id": 2,
+        "name": "Alyson Davidson"
+      }
+    ],
+    "greeting": "Hello, Esperanza! You have 7 unread messages.",
+    "favoriteFruit": "banana"
+}

@@ -1,0 +1,57 @@
+{
+    "_id": "6087c6b442df0f97a742e845",
+    "index": 0,
+    "guid": "01fe1948-4210-4082-9235-5051d3cdeb96",
+    "isActive": false,
+    "balance": "$1,062.63",
+    "picture": "http://placehold.it/32x32",
+    "age": 21,
+    "eyeColor": "green",
+    "name": {
+      "first": "Chasity",
+      "last": "Massey"
+    },
+    "company": "EXOTECHNO",
+    "email": "chasity.massey@exotechno.io",
+    "phone": "+1 (934) 425-3254",
+    "address": "373 Congress Street, Hondah, Tennessee, 393",
+    "about": "Do voluptate minim deserunt commodo officia in deserunt dolore adipisicing. Sunt dolore in magna reprehenderit quis elit duis adipisicing proident id proident labore deserunt. Tempor magna exercitation excepteur elit exercitation deserunt qui commodo ullamco dolor proident id sint.",
+    "registered": "Wednesday, May 28, 2014 6:16 PM",
+    "latitude": "-53.870066",
+    "longitude": "-111.075305",
+    "tags": [
+      "exercitation",
+      "voluptate",
+      "quis",
+      "in",
+      "magna"
+    ],
+    "range": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Casey Green"
+      },
+      {
+        "id": 1,
+        "name": "Krista Mcguire"
+      },
+      {
+        "id": 2,
+        "name": "Rosalind Mcmillan"
+      }
+    ],
+    "greeting": "Hello, Chasity! You have 8 unread messages.",
+    "favoriteFruit": "apple"
+}

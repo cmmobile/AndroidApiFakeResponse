@@ -1,0 +1,57 @@
+{
+    "_id": "6087c6b4622d58fb4d79a43d",
+    "index": 1,
+    "guid": "3758bf0e-f85c-4382-b595-acda598b4553",
+    "isActive": false,
+    "balance": "$3,912.83",
+    "picture": "http://placehold.it/32x32",
+    "age": 39,
+    "eyeColor": "brown",
+    "name": {
+      "first": "Colette",
+      "last": "Foley"
+    },
+    "company": "RADIANTIX",
+    "email": "colette.foley@radiantix.net",
+    "phone": "+1 (878) 447-2733",
+    "address": "133 Huntington Street, Longbranch, Louisiana, 8556",
+    "about": "Esse elit nostrud anim deserunt non deserunt aute incididunt amet. Deserunt veniam occaecat ut eiusmod velit cupidatat proident. Magna nostrud deserunt pariatur qui eu nisi id commodo est. Laboris ex adipisicing anim aliquip minim ea sit commodo. Magna enim tempor aute in. Amet ullamco veniam dolor consectetur culpa reprehenderit qui aliqua.",
+    "registered": "Friday, June 24, 2016 6:13 PM",
+    "latitude": "68.196614",
+    "longitude": "-86.630234",
+    "tags": [
+      "ut",
+      "aute",
+      "non",
+      "tempor",
+      "consectetur"
+    ],
+    "range": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Cheryl Booker"
+      },
+      {
+        "id": 1,
+        "name": "Madden Mooney"
+      },
+      {
+        "id": 2,
+        "name": "Katharine Morgan"
+      }
+    ],
+    "greeting": "Hello, Colette! You have 7 unread messages.",
+    "favoriteFruit": "apple"
+}
